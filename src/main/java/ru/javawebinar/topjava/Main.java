@@ -10,7 +10,7 @@ package ru.javawebinar.topjava;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("asdasd");
+        System.out.println("asdasd123");
         System.out.format("Hello Topjava Enterprise!");
     }
 }
